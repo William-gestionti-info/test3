@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://william-gestionti-info.github.io/test3/sitemap.xml
